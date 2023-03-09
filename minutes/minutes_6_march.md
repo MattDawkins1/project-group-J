@@ -2,7 +2,7 @@
 ## Meeting Information
 **Meeting Date/Time:** Monday 6th March 2023, 6pm  
 **Meeting Purpose:** Team introduction and initial discussion 
-**Meeting Location:** Zoom (https://us04web.zoom.us/j/74354455127?pwd=bGlbePYYluqeG6auBb6ml8YO2sJTf9.1)
+**Meeting Location:** Zoom https://us04web.zoom.us/j/74354455127?pwd=bGlbePYYluqeG6auBb6ml8YO2sJTf9.1
 **Note Taker:** Kaytlen Walsh  
 
 ## Attendees
