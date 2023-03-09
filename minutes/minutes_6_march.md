@@ -1,9 +1,9 @@
 # Meeting Minutes
 ## Meeting Information
-**Meeting Date/Time:** Monday 6th March 2023, 6pm  
-**Meeting Purpose:** Team introduction and initial discussion 
-**Meeting Location:** Zoom 
-**Note Taker:** Kaytlen Walsh  
+**Meeting Date/Time:** Monday 6th March 2023, 6pm<br>  
+**Meeting Purpose:** Team introduction and initial discussion<br>  
+**Meeting Location:** Zoom<br>  
+**Note Taker:** Kaytlen Walsh<br>  
 
 ## Attendees
 People who attended:
